@@ -1,0 +1,35 @@
+{
+  "id": "aye-spydie-mutagenic-foods-playtest",
+  "title": "Aye Spydie Mutagenic Foods Playtest",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "This is a playtest of Aye Spydie's mutagenic foods.",
+  "authors": [
+    {
+      "name": "Aye Spydie",
+      "discord": "ayespydie",
+      "email": "ayespydie@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "mutagenic-foods",
+      "label": "Mutagenic Foods",
+      "path": "packs/mutagenic-foods",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/AyeSpydie/MutagenFoodPlaytest",
+  "manifest": "https://github.com/AyeSpydie/MutagenFoodPlaytest/blob/main/aye-spydie-mutagenic-foods-playtest/module.json",
+  "download": "https://github.com/AyeSpydie/MutagenFoodPlaytest/archive/refs/heads/main.zip"
+}
