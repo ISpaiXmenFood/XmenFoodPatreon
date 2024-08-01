@@ -1,12 +1,12 @@
 {
   "id": "aye-spydie-mutagenic-foods-playtest",
-  "title": "Aye Spydie Mutagenic Foods Playtest",
-  "version": "1.0.0",
+  "title": "Graung's Guide to Golarion: Mutagenic Gastronomy",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
-  "description": "This is a playtest of Aye Spydie's mutagenic foods.",
+  "description": "There are many types of strange and unusual foods in Golarion. Step into the world of Mutagenic Gastronomy and discover new taste sensations!",
   "authors": [
     {
       "name": "Aye Spydie",
